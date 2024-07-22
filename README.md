@@ -43,3 +43,6 @@
 <p>Esse é o menu interativo que o ccódigo possui, se divirta usando ele e explorando as possibilidades de uso:</p>
 
 ![image](https://github.com/user-attachments/assets/9dc343b3-f866-498f-80d6-7c162aba3267)
+
+<h2>Licença</h2>
+<p>Este projeto é licenciado sob os termos da licença MIT.</p>
