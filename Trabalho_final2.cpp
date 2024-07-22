@@ -1,8 +1,3 @@
-/*Turma 3-A
-integrantes:
-Leonardo Ferreira Colmanetti de Almeida Lima - 2131526
-Caio Caminitti de Moraes - 2146079 */
-
 #include <iostream>
 #include <cstdlib>
 #include <string>
