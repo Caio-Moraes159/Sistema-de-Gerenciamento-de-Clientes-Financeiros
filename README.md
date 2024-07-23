@@ -40,7 +40,7 @@
 </ul>
 
 <h2>Prompt do código quando executado</h2>
-<p>Esse é o menu interativo que o ccódigo possui, se divirta usando ele e explorando as possibilidades de uso:</p>
+<p>Esse é o menu interativo que o ccódigo possui, se divirta usando ele e explorando suas possibilidades de uso:</p>
 
 ![image](https://github.com/user-attachments/assets/9dc343b3-f866-498f-80d6-7c162aba3267)
 
