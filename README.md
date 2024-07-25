@@ -39,6 +39,24 @@
     </li>
 </ul>
 
+<h2>Como Compilar e Executar</h2>
+<p>Para compilar e executar o programa, siga os passos abaixo:</p>
+<ol>
+    <li>Abra o terminal ou prompt de comando.</li>
+    <li>Navegue até o diretório onde os arquivos <code>Trabalho_final2.cpp</code> estão localizados.</li>
+    <li>Compile os arquivos usando o comando:
+        <pre>
+g++ Trabalho_final2.cpp -o gerenciamento
+        </pre>
+    </li>
+    <li>Execute o programa com o comando:
+        <pre>
+./gerenciamento
+        </pre>
+    </li>
+</ol>
+
+
 <h2>Prompt do código quando executado</h2>
 <p>Esse é o menu interativo que o ccódigo possui, se divirta usando ele e explorando suas possibilidades de uso:</p>
 
